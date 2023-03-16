@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    min-width: 1600px;
+    overflowY: hidden;
+}
+#root{
+    min-width: 1600px;
+    overflowY: hidden;
+
+}
+
+
